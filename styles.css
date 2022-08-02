@@ -1,0 +1,46 @@
+* {
+    margin: 5px;
+    background-color: rgba(242, 247, 240, 0.918);
+}
+#person-img{
+    margin-top: 0%;
+    margin-left: 35%;
+    width: 350px;
+    height: 350px;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 60px;
+}
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 60px;
+}
+#author{
+    text-align: center;
+}
+#job{
+    text-align: center;
+}
+#info{
+    text-align: center;
+}
+#btn{
+    text-align: center;
+}
+.random-btn{
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #5700f4;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #bcc0d1; 
+    float: left;
+    margin-left: 43.5%;
+}
